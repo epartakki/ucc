@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_text">Input:</string>
+    <string name="output_value">Output:</string>
+    <string name="Input_number">Input Number</string>
+    <string name="display_text">Calculations:</string>
+    <string name="restart_button">RESTART</string>
+    <string name="calculations_text" />
+    <string name="convert_button">Calculate</string>
+    <string name="welcomeText">WELCOME</string>
+    <string name="start_button">START</string>
+    <string name="instructions">Instructions: Click Start, Input your number, Choose your starting unit and your intended unit from the drop down menu, Press Calculate and expand as needed and Restart as needed.</string>
+    <string name="expand">EXPAND</string>
+
+
+    <string-array name="units_array">
+        <item>km</item>
+        <item>hm</item>
+        <item>dam</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+</resources>
